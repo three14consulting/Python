@@ -11,4 +11,4 @@ I then go on to **fine-tune** the model by retraining the **top 10 layers** (of 
 
 Finally, the model is saved so that it may be used in a production environment.
 
-Please see [here]() for the notebook containing the project.
+Please see [here](https://github.com/three14consulting/Python/blob/main/DeepComputerVision/animals-10-v2.ipynb) for the notebook containing the project.
