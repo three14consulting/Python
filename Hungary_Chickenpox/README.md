@@ -4,7 +4,7 @@
 
 Forecasting cases of transmissible diseases ([varicella](https://en.wikipedia.org/wiki/Chickenpox) in this case, aka chickenpox) can help further public health understanding (such as increasing or decreasing prevalence) and plan accordingly (e.g. demand on healthcare resources whether that be manpower and/or medications such as vaccinations or other prevantative measures).
 
-In this project, I attempt to forecast the cases of chickenpox in Hungary at county and national level, each week for 2014, by using methods from [Time-Series Analysis](https://en.wikipedia.org/wiki/Time_series) (such as Exponential Smoothing, SARIMA, VAR) - heavily using the [statsmodels](https://www.statsmodels.org/stable/index.html) API.
+In this project, I attempt to forecast the cases of chickenpox in Hungary at county and national level, each week for 2014, by using methods from [Time Series Analysis](https://en.wikipedia.org/wiki/Time_series) (such as Exponential Smoothing, SARIMA, VAR) - heavily using the [statsmodels](https://www.statsmodels.org/stable/index.html) API.
 
 Please see [**here**](https://github.com/three14consulting/Python/blob/main/Hungary_Chickenpox/Hungary_Chickenpox.ipynb) for the notebook containing the project.
 
